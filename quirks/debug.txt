@@ -1,3 +1,5 @@
+generated from https://qrlogo.kaarposoft.dk/qrdecode.html
+
 skew_limit=18.28125
 skew=0
 left=40 right=1129 top=40 bottom=1129
