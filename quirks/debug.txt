@@ -1,0 +1,492 @@
+skew_limit=18.28125
+skew=0
+left=40 right=1129 top=40 bottom=1129
+size=1090
+findModuleSize matchVersion version=1 grade=0
+findModuleSize matchVersion version=2 grade=0
+findModuleSize matchVersion version=3 grade=0
+findModuleSize matchVersion version=4 grade=0
+matchVersion version=5 finder0=39 finder1=36 finder2=39
+findModuleSize matchVersion version=5 grade=0
+matchVersion version=6 finder0=35 finder1=35 finder2=38
+findModuleSize matchVersion version=6 grade=0
+findModuleSize matchVersion version=7 grade=0
+findModuleSize matchVersion version=8 grade=0
+findModuleSize matchVersion version=9 grade=0
+matchVersion version=10 finder0=34 finder1=37 finder2=36
+findModuleSize matchVersion version=10 grade=0
+matchVersion version=11 finder0=33 finder1=37 finder2=39
+findModuleSize matchVersion version=11 grade=0
+matchVersion version=12 finder0=35 finder1=33 finder2=38
+findModuleSize matchVersion version=12 grade=0
+findModuleSize matchVersion version=13 grade=0
+findModuleSize matchVersion version=14 grade=0
+matchVersion version=15 finder0=35 finder1=37 finder2=33
+findModuleSize matchVersion version=15 grade=0
+matchVersion version=16 finder0=38 finder1=46 finder2=42
+matchVersion version=16 version topright = 0 4 version bottomleft = 0 4
+findModuleSize matchVersion version=16 grade=0
+matchVersion version=17 finder0=34 finder1=39 finder2=38
+findModuleSize matchVersion version=17 grade=0
+findModuleSize matchVersion version=18 grade=0
+findModuleSize matchVersion version=19 grade=0
+matchVersion version=20 finder0=35 finder1=33 finder2=34
+findModuleSize matchVersion version=20 grade=0
+matchVersion version=21 finder0=49 finder1=48 finder2=49
+matchVersion version=21 version topright = 0 4 version bottomleft = 0 4
+findModuleSize matchVersion version=21 grade=0
+matchVersion version=22 finder0=64 finder1=63 finder2=64
+matchVersion version=22 version topright = 23 1 version bottomleft = 23 1
+matchVersion: revising version to 23 from 22
+matchVersion version=23 timing0=1 timing1=1 alignment=1
+matchVersion version=23 format_NW =16 0 format_NESW =16 0 format = 16 ecl = 2 mask = 0
+matchVersion version=23 grades(F(V)TAF): 33444->3
+findModuleSize matchVersion version=23 grade=3
+matchVersion version=23 finder0=64 finder1=64 finder2=64
+matchVersion version=23 version topright = 23 0 version bottomleft = 23 0
+matchVersion version=23 timing0=1 timing1=1 alignment=1
+matchVersion version=23 format_NW =16 0 format_NESW =16 0 format = 16 ecl = 2 mask = 0
+matchVersion version=23 grades(F(V)TAF): 44444->4
+findModuleSize matchVersion version=23 grade=4
+findModuleSize version=23 grade=4 error_correction_level=2 mask=0
+getCodewords mask=0 length=1364
+getCodewords = 64,194,162,70,0,6,64,1,0,0,32,32,32,1,0,0,0,0,0,16,0,1,0,64,0,4,0,67,123,17,0,212,40,224,161,64,0,0,16,0,0,0,0,0,8,0,16,128,16,0,0,0,0,1,0,0,16,163,161,236,180,141,70,40,188,5,2,2,0,128,64,64,64,4,0,128,0,0,0,32,8,2,32,0,32,8,0,163,107,17,230,19,136,11,1,0,0,0,0,0,1,0,0,0,32,0,1,8,32,0,0,0,0,0,0,0,1,131,19,236,247,226,121,27,0,0,8,8,128,4,0,128,128,0,0,4,0,0,0,128,16,4,2,16,64,32,0,153,58,17,66,58,21,128,70,72,0,0,1,0,0,2,2,64,1,0,0,0,128,0,0,0,0,0,0,0,0,209,146,236,6,22,64,160,65,16,0,0,0,8,16,0,0,0,0,16,8,64,0,8,32,16,0,1,128,1,16,121,139,17,18,136,0,40,144,0,64,128,4,0,0,0,0,2,4,0,0,0,8,0,0,0,16,0,1,0,0,123,51,236,6,225,18,0,11,1,1,0,0,16,0,32,32,0,0,0,16,128,0,0,128,0,0,0,0,2,0,203,42,17,102,29,1,0,0,0,0,4,0,0,128,0,0,4,0,128,0,2,0,64,0,128,64,8,2,0,128,123,185,236,198,39,5,70,64,0,0,0,64,64,1,1,2,0,32,1,64,0,64,1,8,2,0,0,0,4,2,171,177,17,22,225,113,80,161,8,16,16,0,0,0,0,0,16,0,0,0,0,1,0,0,0,4,16,8,0,0,163,160,236,114,104,148,0,188,0,0,0,2,4,4,4,0,0,128,2,4,32,0,0,0,0,0,0,0,16,0,169,0,17,2,135,10,11,1,16,0,1,0,0,0,0,32,1,0,0,0,0,0,16,64,32,0,64,0,0,32,115,236,236,3,133,0,0,0,0,128,0,8,0,0,0,0,0,8,4,0,2,8,0,0,0,32,0,128,1,0,19,17,17,32,0,0,1,128,2,0,4,0,0,227,41,236,236,93,197,155,228,215,17,32,5,249,161,227,30,4,156,11,90,131,148,230,208,130,223,92,252,4,149,251,220,167,190,175,138,3,117,132,229,21,155,63,60,201,153,249,195,134,116,60,151,96,134,2,114,176,88,178,36,221,108,101,0,161,126,209,84,82,144,244,109,220,82,96,27,58,76,67,65,179,42,236,58,9,17,102,70,108,171,213,80,155,127,160,59,207,22,85,80,94,100,212,185,61,161,235,104,126,199,176,120,111,35,16,109,68,104,213,232,98,33,84,18,57,67,61,88,228,231,26,51,193,217,203,210,26,35,202,224,115,113,161,175,117,184,191,109,89,28,130,189,225,219,15,33,91,7,143,57,20,45,253,74,35,178,249,63,22,238,173,224,174,128,41,83,242,31,0,20,172,161,163,81,21,23,205,104,57,165,43,19,17,225,80,246,214,46,172,86,215,123,161,113,127,2,183,172,173,98,107,208,151,41,136,211,33,179,81,116,196,106,38,118,140,189,32,78,180,253,10,67,140,140,38,11,29,203,156,241,199,11,179,207,211,147,62,112,204,58,43,21,29,213,144,181,13,203,158,103,24,197,211,151,61,130,81,225,247,102,188,3,222,131,39,125,180,127,252,122,27,245,83,13,0,135,165,26,178,228,152,60,57,88,145,203,9,66,245,84,185,47,62,225,191,144,60,244,37,95,218,48,40,142,230,17,221,226,29,163,181,132,187,183,113,150,26,119,71,39,90,63,77,207,167,194,209,154,6,2,103,137,50,215,32,155,48,98,209,239,140,106,184,117,80,159,80,234,117,102,139,103,184,111,161,92,246,17,72,37,246,207,217,239,168,146,239,111,96,14,77,132,225,71,223,238,150,112,226,68,62,40,84,4,240,148,84,89,4,146,38,190,45,6,87,97,160,109,227,97,158,157,66,13,93,175,56,178,82,6,122,15,114,75,91,71,206,75,109,163,37,104,165,72,157,177,95,63,160,144,253,78,135,77,51,235,200,78,78,69,87,105,48,172,22,252,88,190,104,78,77,163,146,23,26,193,170,214,114,65,32,181,167,241,189,158,218,113,85,31,48,222,142,57,121,217,164,219,245,235,23,85,192,59,97,132,32,46,146,215,20,39,3,189,232,109,151,129,197,88,174,15,85,53,58,46,83,149,249,188,162,21,8,121,26,17,82,143,84,103,9,180,114,207,192,18,250,177,243,254,79,97,47,89,31,41,4,194,125,76,112,100,179,160,7,156,81,219,61,199,130,122,229,252,247,4,30,87,64,68,117,198,95,150,182,59,14,129,216,140,132,137,24,172,202,4,153,50,17,5,75,225,89,207,211,105,183,203,245,15,154,129,138,170,160,230,252,202,76,232,115,229,67,9,43,181,88,13,19,110,44,27,178,63,3,137,106,177,106,163,231,235,88,104,67,148,200,223,139,230,226,100,16,247,7,95,169,255,86,136,235,126,134,232,97,70,233,16,123,94,35,247,190,46,164,91,55,205,88,176,74,92,226,93,0,176,201,213,106,132,63,64,242,239,63,8,68,156,225,114,21,113,9,121,7,148,24,138,166,121,50,184,226,221,133,242,232,112,133,37,155,162,115,16,90,55,100,209,106,154,222,230,116,188,58,97,142,98,16,161,193,204,56,222,161,194,213,103,194,99,70,220,177,111,236,155,98,225,6,182,118,108,253,75,83,238,5,59,101,40,119,162,77,92,46,12,159,249,46,208,128,119,98,141,247,243,234,186,65,225,85,178,108,128,191,5,211,175,185,40,201,0,252,27,250,227,156,99,105,14,106,249,182,87,128,113,209,228,137,41,95,135,228,100,237,136,220,27,225,58,136,163,209,108,66,10,154,220,189,151,150,212,58,23,85,77,19,77,239,116,33,132,38,149,90,60,56,144,238,123,124,122,50,248,75,21,23,162,21,57,5,75,125,255,232,73,191,65,58,82,74,87,220,206,19,155,148,34,130,206,243,242,215,160,250,125,23,115,45,73,237,39,230,186,64,15,67,163,149,152,178,24,124,128
+setBlocks n_blocks_first=16 n_blocks_second=14 n_blocks=30 n_block_words_first=15 n_block_words_second=16 n_block_ec_words=30 total=1364
+setBlocks block 0 (45): 0,30,60,90,120,150,180,210,240,270,300,330,360,390,420,464,494,524,554,584,614,644,674,704,734,764,794,824,854,884,914,944,974,1004,1034,1064,1094,1124,1154,1184,1214,1244,1274,1304,1334
+setBlocks block 1 (45): 1,31,61,91,121,151,181,211,241,271,301,331,361,391,421,465,495,525,555,585,615,645,675,705,735,765,795,825,855,885,915,945,975,1005,1035,1065,1095,1125,1155,1185,1215,1245,1275,1305,1335
+setBlocks block 2 (45): 2,32,62,92,122,152,182,212,242,272,302,332,362,392,422,466,496,526,556,586,616,646,676,706,736,766,796,826,856,886,916,946,976,1006,1036,1066,1096,1126,1156,1186,1216,1246,1276,1306,1336
+setBlocks block 3 (45): 3,33,63,93,123,153,183,213,243,273,303,333,363,393,423,467,497,527,557,587,617,647,677,707,737,767,797,827,857,887,917,947,977,1007,1037,1067,1097,1127,1157,1187,1217,1247,1277,1307,1337
+setBlocks block 4 (45): 4,34,64,94,124,154,184,214,244,274,304,334,364,394,424,468,498,528,558,588,618,648,678,708,738,768,798,828,858,888,918,948,978,1008,1038,1068,1098,1128,1158,1188,1218,1248,1278,1308,1338
+setBlocks block 5 (45): 5,35,65,95,125,155,185,215,245,275,305,335,365,395,425,469,499,529,559,589,619,649,679,709,739,769,799,829,859,889,919,949,979,1009,1039,1069,1099,1129,1159,1189,1219,1249,1279,1309,1339
+setBlocks block 6 (45): 6,36,66,96,126,156,186,216,246,276,306,336,366,396,426,470,500,530,560,590,620,650,680,710,740,770,800,830,860,890,920,950,980,1010,1040,1070,1100,1130,1160,1190,1220,1250,1280,1310,1340
+setBlocks block 7 (45): 7,37,67,97,127,157,187,217,247,277,307,337,367,397,427,471,501,531,561,591,621,651,681,711,741,771,801,831,861,891,921,951,981,1011,1041,1071,1101,1131,1161,1191,1221,1251,1281,1311,1341
+setBlocks block 8 (45): 8,38,68,98,128,158,188,218,248,278,308,338,368,398,428,472,502,532,562,592,622,652,682,712,742,772,802,832,862,892,922,952,982,1012,1042,1072,1102,1132,1162,1192,1222,1252,1282,1312,1342
+setBlocks block 9 (45): 9,39,69,99,129,159,189,219,249,279,309,339,369,399,429,473,503,533,563,593,623,653,683,713,743,773,803,833,863,893,923,953,983,1013,1043,1073,1103,1133,1163,1193,1223,1253,1283,1313,1343
+setBlocks block 10 (45): 10,40,70,100,130,160,190,220,250,280,310,340,370,400,430,474,504,534,564,594,624,654,684,714,744,774,804,834,864,894,924,954,984,1014,1044,1074,1104,1134,1164,1194,1224,1254,1284,1314,1344
+setBlocks block 11 (45): 11,41,71,101,131,161,191,221,251,281,311,341,371,401,431,475,505,535,565,595,625,655,685,715,745,775,805,835,865,895,925,955,985,1015,1045,1075,1105,1135,1165,1195,1225,1255,1285,1315,1345
+setBlocks block 12 (45): 12,42,72,102,132,162,192,222,252,282,312,342,372,402,432,476,506,536,566,596,626,656,686,716,746,776,806,836,866,896,926,956,986,1016,1046,1076,1106,1136,1166,1196,1226,1256,1286,1316,1346
+setBlocks block 13 (45): 13,43,73,103,133,163,193,223,253,283,313,343,373,403,433,477,507,537,567,597,627,657,687,717,747,777,807,837,867,897,927,957,987,1017,1047,1077,1107,1137,1167,1197,1227,1257,1287,1317,1347
+setBlocks block 14 (45): 14,44,74,104,134,164,194,224,254,284,314,344,374,404,434,478,508,538,568,598,628,658,688,718,748,778,808,838,868,898,928,958,988,1018,1048,1078,1108,1138,1168,1198,1228,1258,1288,1318,1348
+setBlocks block 15 (45): 15,45,75,105,135,165,195,225,255,285,315,345,375,405,435,479,509,539,569,599,629,659,689,719,749,779,809,839,869,899,929,959,989,1019,1049,1079,1109,1139,1169,1199,1229,1259,1289,1319,1349
+setBlocks block 16 (46): 16,46,76,106,136,166,196,226,256,286,316,346,376,406,436,450,480,510,540,570,600,630,660,690,720,750,780,810,840,870,900,930,960,990,1020,1050,1080,1110,1140,1170,1200,1230,1260,1290,1320,1350
+setBlocks block 17 (46): 17,47,77,107,137,167,197,227,257,287,317,347,377,407,437,451,481,511,541,571,601,631,661,691,721,751,781,811,841,871,901,931,961,991,1021,1051,1081,1111,1141,1171,1201,1231,1261,1291,1321,1351
+setBlocks block 18 (46): 18,48,78,108,138,168,198,228,258,288,318,348,378,408,438,452,482,512,542,572,602,632,662,692,722,752,782,812,842,872,902,932,962,992,1022,1052,1082,1112,1142,1172,1202,1232,1262,1292,1322,1352
+setBlocks block 19 (46): 19,49,79,109,139,169,199,229,259,289,319,349,379,409,439,453,483,513,543,573,603,633,663,693,723,753,783,813,843,873,903,933,963,993,1023,1053,1083,1113,1143,1173,1203,1233,1263,1293,1323,1353
+setBlocks block 20 (46): 20,50,80,110,140,170,200,230,260,290,320,350,380,410,440,454,484,514,544,574,604,634,664,694,724,754,784,814,844,874,904,934,964,994,1024,1054,1084,1114,1144,1174,1204,1234,1264,1294,1324,1354
+setBlocks block 21 (46): 21,51,81,111,141,171,201,231,261,291,321,351,381,411,441,455,485,515,545,575,605,635,665,695,725,755,785,815,845,875,905,935,965,995,1025,1055,1085,1115,1145,1175,1205,1235,1265,1295,1325,1355
+setBlocks block 22 (46): 22,52,82,112,142,172,202,232,262,292,322,352,382,412,442,456,486,516,546,576,606,636,666,696,726,756,786,816,846,876,906,936,966,996,1026,1056,1086,1116,1146,1176,1206,1236,1266,1296,1326,1356
+setBlocks block 23 (46): 23,53,83,113,143,173,203,233,263,293,323,353,383,413,443,457,487,517,547,577,607,637,667,697,727,757,787,817,847,877,907,937,967,997,1027,1057,1087,1117,1147,1177,1207,1237,1267,1297,1327,1357
+setBlocks block 24 (46): 24,54,84,114,144,174,204,234,264,294,324,354,384,414,444,458,488,518,548,578,608,638,668,698,728,758,788,818,848,878,908,938,968,998,1028,1058,1088,1118,1148,1178,1208,1238,1268,1298,1328,1358
+setBlocks block 25 (46): 25,55,85,115,145,175,205,235,265,295,325,355,385,415,445,459,489,519,549,579,609,639,669,699,729,759,789,819,849,879,909,939,969,999,1029,1059,1089,1119,1149,1179,1209,1239,1269,1299,1329,1359
+setBlocks block 26 (46): 26,56,86,116,146,176,206,236,266,296,326,356,386,416,446,460,490,520,550,580,610,640,670,700,730,760,790,820,850,880,910,940,970,1000,1030,1060,1090,1120,1150,1180,1210,1240,1270,1300,1330,1360
+setBlocks block 27 (46): 27,57,87,117,147,177,207,237,267,297,327,357,387,417,447,461,491,521,551,581,611,641,671,701,731,761,791,821,851,881,911,941,971,1001,1031,1061,1091,1121,1151,1181,1211,1241,1271,1301,1331,1361
+setBlocks block 28 (46): 28,58,88,118,148,178,208,238,268,298,328,358,388,418,448,462,492,522,552,582,612,642,672,702,732,762,792,822,852,882,912,942,972,1002,1032,1062,1092,1122,1152,1182,1212,1242,1272,1302,1332,1362
+setBlocks block 29 (46): 29,59,89,119,149,179,209,239,269,299,329,359,389,419,449,463,493,523,553,583,613,643,673,703,733,763,793,823,853,883,913,943,973,1003,1033,1063,1093,1123,1153,1183,1213,1243,1273,1303,1333,1363
+RS calculateSyndroms: No errors
+correctErrors in = 64,0,180,230,247,66,6,18,6,102,198,22,114,2,3,93,175,161,160,57,15,21,136,211,39,191,167,161,240,91,22,121,58,31,182,160,67,164,7,58,83,191,237,90,19
+correctErrors out = 64,0,180,230,247,66,6,18,6,102,198,22,114,2,3
+RS calculateSyndroms: No errors
+correctErrors in = 194,212,141,19,226,58,22,136,225,29,39,225,104,135,133,197,138,126,59,67,33,23,211,147,125,144,194,92,148,71,252,217,46,41,59,230,148,91,148,97,238,5,136,60,155
+correctErrors out = 194,212,141,19,226,58,22,136,225,29,39,225,104,135,133
+RS calculateSyndroms: No errors
+correctErrors in = 162,40,70,136,121,21,64,0,18,1,5,113,148,10,0,155,3,209,207,61,91,205,33,62,180,60,209,246,84,206,88,164,83,4,14,252,200,55,24,142,5,211,220,56,148
+correctErrors out = 162,40,70,136,121,21,64,0,18,1,5,113,148,10,0
+RS calculateSyndroms: No errors
+correctErrors in = 70,224,40,11,27,128,160,40,0,0,70,80,0,11,0,228,117,84,22,88,7,104,179,112,127,244,154,17,89,75,190,219,149,194,129,202,223,205,138,98,59,175,27,144,34
+correctErrors out = 70,224,40,11,27,128,160,40,0,0,70,80,0,11,0
+RS calculateSyndroms: No errors
+correctErrors in = 0,161,188,1,0,70,65,144,11,0,64,161,188,1,0,215,132,82,85,228,143,57,81,204,252,37,6,72,4,109,104,245,249,125,216,76,139,88,166,16,101,185,225,238,130
+correctErrors out = 0,161,188,1,0,70,65,144,11,0,64,161,188,1,0
+RS calculateSyndroms: No errors
+correctErrors in = 6,64,5,0,0,72,16,0,1,0,0,8,0,16,0,17,229,144,80,231,57,165,116,58,122,95,2,37,146,163,78,235,188,76,140,232,230,176,121,161,40,40,58,123,206
+correctErrors out = 6,64,5,0,0,72,16,0,1,0,0,8,0,16,0
+RS calculateSyndroms: No errors
+correctErrors in = 64,0,2,0,8,0,0,64,1,0,0,16,0,0,128,32,21,244,94,26,20,43,196,43,27,218,103,246,38,37,77,23,162,112,132,115,226,74,50,193,119,201,136,124,243
+correctErrors out = 64,0,2,0,8,0,0,64,1,0,0,16,0,0,128
+RS calculateSyndroms: No errors
+correctErrors in = 1,0,2,0,8,0,0,128,0,4,0,16,0,1,0,5,155,109,100,51,45,19,106,21,245,48,137,207,190,104,163,85,21,100,137,229,100,92,184,204,162,0,163,122,242
+correctErrors out = 1,0,2,0,8,0,0,128,0,4,0,16,0,1,0
+RS calculateSyndroms: No errors
+correctErrors in = 0,16,0,0,128,1,0,4,0,0,64,0,2,0,8,249,63,220,212,193,253,17,38,29,83,40,50,217,45,165,146,192,8,179,24,67,16,226,226,56,77,252,209,50,215
+correctErrors out = 0,16,0,0,128,1,0,4,0,0,64,0,2,0,8
+RS calculateSyndroms: No errors
+correctErrors in = 0,0,128,0,4,0,8,0,16,0,64,0,4,0,0,161,60,82,185,217,74,225,118,213,13,142,215,239,6,72,23,59,121,160,172,9,247,93,221,222,92,27,108,248,160
+correctErrors out = 0,0,128,0,4,0,8,0,16,0,64,0,4,0,0
+RS calculateSyndroms: No errors
+correctErrors in = 32,0,64,1,0,0,16,0,0,128,1,0,4,0,0,227,201,96,61,203,35,80,140,144,0,230,32,168,87,157,26,97,26,7,202,43,7,0,133,161,46,250,66,75,250
+correctErrors out = 32,0,64,1,0,0,16,0,0,128,1,0,4,0,0
+RS calculateSyndroms: No errors
+correctErrors in = 32,0,64,0,128,2,0,0,32,0,1,0,4,0,0,30,153,27,161,210,178,246,189,181,135,17,155,146,97,177,193,132,17,156,4,181,95,176,242,194,12,227,10,21,125
+correctErrors out = 32,0,64,0,128,2,0,0,32,0,1,0,4,0,0
+RS calculateSyndroms: No errors
+correctErrors in = 32,0,64,0,128,2,0,0,32,0,2,0,0,32,0,4,249,58,235,26,249,214,32,13,165,221,48,239,160,95,170,32,82,81,153,88,169,201,232,213,159,156,154,23,23
+correctErrors out = 32,0,64,0,128,2,0,0,32,0,2,0,0,32,0
+RS calculateSyndroms: No errors
+correctErrors in = 1,0,4,0,0,64,0,2,0,4,0,16,0,1,0,156,195,76,104,35,63,46,78,203,26,226,98,111,109,63,214,46,143,219,50,13,255,213,112,103,249,99,220,162,115
+correctErrors out = 1,0,4,0,0,64,0,2,0,4,0,16,0,1,0
+RS calculateSyndroms: No errors
+correctErrors in = 0,8,0,32,0,1,0,4,0,0,32,0,128,0,8,11,134,67,126,202,22,172,180,158,178,29,209,96,227,160,114,146,84,61,17,19,86,106,133,194,46,105,189,21,45
+correctErrors out = 0,8,0,32,0,1,0,4,0,0,32,0,128,0,8
+RS calculateSyndroms: No errors
+correctErrors in = 0,0,128,0,4,0,16,0,0,128,1,0,2,0,4,90,116,65,199,224,238,86,253,103,228,163,239,14,97,144,65,215,103,199,5,110,136,132,37,99,208,14,151,57,73
+correctErrors out = 0,0,128,0,4,0,16,0,0,128,1,0,2,0,4
+RS calculateSyndroms: No errors
+correctErrors in = 0,16,0,1,0,0,8,0,16,0,64,0,4,0,0,32,131,60,179,176,115,173,215,10,24,152,181,140,77,158,253,32,20,9,130,75,44,235,63,155,70,128,106,150,5,237
+correctErrors out = 0,16,0,1,0,0,8,0,16,0,64,0,4,0,0,32
+RS calculateSyndroms: No errors
+correctErrors in = 0,128,0,8,0,0,64,0,128,2,0,0,32,0,2,0,148,151,42,120,113,224,123,67,197,60,132,106,132,157,78,181,39,180,122,225,27,126,64,162,220,119,249,212,75,39
+correctErrors out = 0,128,0,8,0,0,64,0,128,2,0,0,32,0,2,0
+RS calculateSyndroms: No errors
+correctErrors in = 0,16,0,32,0,128,0,8,0,0,64,1,0,0,8,0,230,96,236,111,161,174,161,140,211,57,187,184,225,66,135,167,3,114,229,89,178,134,242,115,177,98,182,58,125,230
+correctErrors out = 0,16,0,32,0,128,0,8,0,0,64,1,0,0,8,0
+RS calculateSyndroms: No errors
+correctErrors in = 16,0,32,0,128,0,8,0,0,64,1,0,0,16,0,1,208,134,58,35,175,128,113,140,151,88,183,117,71,13,77,241,189,207,252,207,63,232,239,16,111,141,87,23,255,186
+correctErrors out = 16,0,32,0,128,0,8,0,0,64,1,0,0,16,0,1
+RS calculateSyndroms: No errors
+correctErrors in = 0,0,8,0,16,0,32,0,128,0,8,0,0,64,0,128,130,2,9,16,117,41,127,38,61,145,113,80,223,93,51,189,232,192,247,211,3,97,63,90,236,247,128,85,232,64
+correctErrors out = 0,0,8,0,16,0,32,0,128,0,8,0,0,64,0,128
+RS calculateSyndroms: No errors
+correctErrors in = 1,0,2,0,4,0,16,0,0,128,2,0,0,32,0,2,223,114,17,109,184,83,2,11,130,203,150,159,238,175,235,158,109,18,4,105,137,70,8,55,155,243,113,77,73,15
+correctErrors out = 1,0,2,0,4,0,16,0,0,128,2,0,0,32,0,2
+RS calculateSyndroms: No errors
+correctErrors in = 0,0,32,0,2,0,0,16,0,64,0,4,0,0,32,0,92,176,102,68,191,242,183,29,81,9,26,80,150,56,200,218,151,250,30,183,106,233,68,100,98,234,209,19,191,67
+correctErrors out = 0,0,32,0,2,0,0,16,0,64,0,4,0,0,32,0
+RS calculateSyndroms: No errors
+correctErrors in = 64,1,0,0,16,0,1,0,0,8,0,16,0,64,0,4,252,88,70,104,109,31,172,203,225,66,119,234,112,178,78,113,129,177,87,203,177,16,156,209,225,186,228,77,65,163
+correctErrors out = 64,1,0,0,16,0,1,0,0,8,0,16,0,64,0,4
+RS calculateSyndroms: No errors
+correctErrors in = 0,0,32,0,64,0,128,1,0,2,0,8,0,0,128,0,4,178,108,213,89,0,173,156,247,245,71,117,226,82,78,85,197,243,64,245,106,123,225,106,6,65,137,239,58,149
+correctErrors out = 0,0,32,0,64,0,128,1,0,2,0,8,0,0,128,0
+RS calculateSyndroms: No errors
+correctErrors in = 4,0,8,0,32,0,1,0,2,0,4,0,16,0,1,0,149,36,171,232,28,20,98,241,102,84,39,102,68,6,69,31,88,254,68,15,163,94,114,154,182,225,41,116,82,152
+correctErrors out = 4,0,8,0,32,0,1,0,2,0,4,0,16,0,1,0
+RS calculateSyndroms: No errors
+correctErrors in = 0,16,0,1,0,0,16,0,0,128,2,0,0,32,0,227,251,221,213,98,130,172,107,199,188,185,90,139,62,122,87,48,174,79,117,154,231,35,21,222,118,85,95,33,74,178
+correctErrors out = 0,16,0,1,0,0,16,0,0,128,2,0,0,32,0,227
+RS calculateSyndroms: No errors
+correctErrors in = 67,163,163,131,153,209,121,123,203,123,171,163,169,115,19,41,220,108,80,33,189,161,208,11,3,47,63,103,40,15,105,222,15,97,198,129,235,247,113,230,108,178,135,132,87,24
+correctErrors out = 67,163,163,131,153,209,121,123,203,123,171,163,169,115,19,41
+RS calculateSyndroms: No errors
+correctErrors in = 123,161,107,19,58,146,139,51,42,185,177,160,0,236,17,236,167,101,155,84,225,163,151,179,222,62,77,184,84,114,48,142,85,47,95,138,88,190,9,116,253,108,228,38,220,124
+correctErrors out = 123,161,107,19,58,146,139,51,42,185,177,160,0,236,17,236
+RS calculateSyndroms: No errors
+correctErrors in = 17,236,17,236,17,236,17,236,17,236,17,236,17,236,17,236,190,0,127,18,219,81,41,207,131,225,207,111,4,75,172,57,53,89,150,170,104,46,121,188,75,128,100,149,206,128
+correctErrors out = 17,236,17,236,17,236,17,236,17,236,17,236,17,236,17,236
+error_grade=4
+extractData bytes in (464) = 64,0,180,230,247,66,6,18,6,102,198,22,114,2,3,194,212,141,19,226,58,22,136,225,29,39,225,104,135,133,162,40,70,136,121,21,64,0,18,1,5,113,148,10,0,70,224,40,11,27,128,160,40,0,0,70,80,0,11,0,0,161,188,1,0,70,65,144,11,0,64,161,188,1,0,6,64,5,0,0,72,16,0,1,0,0,8,0,16,0,64,0,2,0,8,0,0,64,1,0,0,16,0,0,128,1,0,2,0,8,0,0,128,0,4,0,16,0,1,0,0,16,0,0,128,1,0,4,0,0,64,0,2,0,8,0,0,128,0,4,0,8,0,16,0,64,0,4,0,0,32,0,64,1,0,0,16,0,0,128,1,0,4,0,0,32,0,64,0,128,2,0,0,32,0,1,0,4,0,0,32,0,64,0,128,2,0,0,32,0,2,0,0,32,0,1,0,4,0,0,64,0,2,0,4,0,16,0,1,0,0,8,0,32,0,1,0,4,0,0,32,0,128,0,8,0,0,128,0,4,0,16,0,0,128,1,0,2,0,4,0,16,0,1,0,0,8,0,16,0,64,0,4,0,0,32,0,128,0,8,0,0,64,0,128,2,0,0,32,0,2,0,0,16,0,32,0,128,0,8,0,0,64,1,0,0,8,0,16,0,32,0,128,0,8,0,0,64,1,0,0,16,0,1,0,0,8,0,16,0,32,0,128,0,8,0,0,64,0,128,1,0,2,0,4,0,16,0,0,128,2,0,0,32,0,2,0,0,32,0,2,0,0,16,0,64,0,4,0,0,32,0,64,1,0,0,16,0,1,0,0,8,0,16,0,64,0,4,0,0,32,0,64,0,128,1,0,2,0,8,0,0,128,0,4,0,8,0,32,0,1,0,2,0,4,0,16,0,1,0,0,16,0,1,0,0,16,0,0,128,2,0,0,32,0,227,67,163,163,131,153,209,121,123,203,123,171,163,169,115,19,41,123,161,107,19,58,146,139,51,42,185,177,160,0,236,17,236,17,236,17,236,17,236,17,236,17,236,17,236,17,236,17,236
+extractData mode = 4
+extract charcount = 11
+extractData mode = 2
+extractAlphanum charcount = 30
+extractData mode = 4
+extract charcount = 1
+extractData mode = 1
+extractNumeric charcount = 87
+extractData mode = 4
+extract charcount = 1
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 2
+extractAlphanum charcount = 0
+extractData mode = 4
+extract charcount = 0
+extractData mode = 4
+extract charcount = 28
+extractData mode = 0
+extractData data(158) = 78,111,116,32,97,32,102,108,97,103,32,52,49,54,67,55,51,54,70,50,48,54,69,54,70,55,52,50,48,54,49,50,48,54,54,54,67,54,49,54,55,32,49,48,49,48,49,48,48,48,49,49,49,48,48,49,48,48,49,49,49,49,48,48,49,48,48,49,48,48,48,48,48,48,49,49,48,49,48,48,48,48,49,49,48,48,48,48,49,48,49,49,49,48,48,49,48,48,49,49,48,48,49,48,48,48,49,49,48,48,49,48,49,48,49,49,49,48,48,49,48,48,48,49,48,48,48,48,49,32,104,116,116,112,115,58,47,47,121,111,117,116,117,46,98,101,47,116,45,98,103,82,81,102,101,87,54,52
